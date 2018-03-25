@@ -293,7 +293,7 @@ ensure_cacert
 #
 # Ensure FreeType are built
 #
-ensure_freetype
+#ensure_freetype
 
 #
 # Build JDK/JRE images
